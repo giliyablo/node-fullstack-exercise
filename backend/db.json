@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "96715211-5419-4d60-b6ca-f33fe543a79d",
+      "email": "gili.yablonka@gmail.com",
+      "password": "$2a$10$3qzeKB5ojHFgAmezhlRuDuRqdLL4KeP9uKmFttQRv4DyCo6H5slji"
+    },
+    {
+      "id": "a23c7a87-8701-4100-88c2-1d30a616a507",
+      "email": "swdsad@sdfs.sadfs",
+      "password": "$2a$10$8Vz.9cPvoDLpPSesyfgdwOt7BIib7HTFB3g8tcr5BPEbTyLO1rXoe"
+    },
+    {
+      "id": "a80e82ba-27d6-4203-a387-0618e36e2cf1",
+      "email": "dsefes@ssfds.sdfdsf",
+      "password": "$2a$10$TisyIj3sy3iv6EAzzfN/teVoJosehkA6vFUpUYsTmTs6REE/AWJ2S"
+    },
+    {
+      "id": "b99a60b2-53b2-4adb-9ab4-d2b10a4c14b3",
+      "email": "sdfdsfds@setest.setest",
+      "password": "$2a$10$lMnSaRqnFtr1lWzRlgWWhuszMqqCYnpw84C5v8TnQ7TlOKL7SC0Jy"
+    },
+    {
+      "id": "be313fa7-950e-4a7c-9cc8-c34d2fc0e4d8",
+      "email": "dghtdht@sewts.asfesf",
+      "password": "$2a$10$rUfE.hb2.evdVcraUR0TF.o3kx8I15wlxPLGXWIWCOgRA6TK1o.FS"
+    },
+    {
+      "id": "76b3dcc8-8900-4422-9ef1-7eff8abbaace",
+      "email": "esrsersr@erereww.werewr",
+      "password": "$2a$10$c84.gv2Dd8Qhw8R3temyz.jvV53ON.wi3PccIEcRu17m8dw5pM62W"
+    },
+    {
+      "id": "8853655b-88bc-43f2-9377-6bd02377cfab",
+      "email": "sefesrew@seresares.awrrr",
+      "password": "$2a$10$jOsx6VGbsg.g6XzhnhkIbegvGKxxVLTQL6Fu1TidnnxHiotVhTFn2"
+    }
+  ]
+}

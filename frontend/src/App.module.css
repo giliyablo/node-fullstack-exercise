@@ -1,0 +1,28 @@
+:root {
+  --color-slate-500: #64748b;
+  --color-slate-300: #cbd5e1;
+}
+
+.loginContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 600px;
+  border: 1px solid var(--color-slate-500);
+  padding: 20px;
+}
+
+.loginInput {
+  border-radius: 0px;
+  border: 1px solid var(--color-slate-300);
+  padding: 6px;
+}
+
+.loginButton {
+  background-color: var(--color-slate-500);
+  color: white;
+  border: none;
+  padding: 6px;
+  border-radius: 0px;
+  cursor: pointer;
+}
